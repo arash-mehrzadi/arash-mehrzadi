@@ -13,7 +13,7 @@ I have done lots of works in this fields which you can see in my projects sectio
 
 
 [![Linkedin: Arash Mehrzadi](https://img.shields.io/badge/-arashmehrzadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arashmehrzadi/)](https://www.linkedin.com/in/arashmehrzadi/)
-[![Instagram Badge](https://img.shields.io/badge/-arash_mehrzadi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arash_mehrzadi/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-arash_mehrzadi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arash_mehrzadi/)](https://www.instagram.com/arash_mehrzadi/)
 
 
 
