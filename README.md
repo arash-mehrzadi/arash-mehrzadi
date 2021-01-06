@@ -10,7 +10,18 @@ I have done lots of works in this fields which you can see in my projects sectio
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=mehrzadiarash@gmail.com&color=red&logo=gmail&style=social)](mailto:mehrzadiarash@gmail.com?subject=Hello)
 
 [![Linkedin: Arash Mehrzadi](https://img.shields.io/badge/-arashmehrzadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arashmehrzadi/)](https://www.linkedin.com/in/arashmehrzadi/)
+[![Instagram Badge](https://img.shields.io/badge/-arash_mehrzadi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arash_mehrzadi/)](https://instagram.com/kanna6501)
 
+
+[![Website](https://img.shields.io/badge/Website-arashmehrzadi.com-informational?style=flat-square&logo=jekyll&logoColor=white)](https://www.arashmehrzadi.com/)
+
+
+
+<p align="center">
+    <a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/arash-mehrzadi/arash-mehrzadi?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/arash-mehrzadi/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arash-mehrzadi/arash-mehrzadi?label=profile%20updated&style=flat-square"></a>
+</p>
 <!--
 **arash-mehrzadi/arash-mehrzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
