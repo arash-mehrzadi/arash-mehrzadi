@@ -8,7 +8,7 @@ I have done lots of works in this fields which you can see in my projects sectio
 [![GitHub Arash Mehrzadi](https://img.shields.io/github/followers/arash-mehrzadi?label=follow&style=social)](https://github.com/arash-mehrzadi)
 [![Kaggle](https://img.shields.io/static/v1.svg?label=Kaggle&message=1&color=red&logo=kaggle&style=social)](https://www.kaggle.com/in/arashmehrzadi/)
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=mehrzadiarash@gmail.com&color=red&logo=gmail&style=social)](mailto:mehrzadiarash@gmail.com?subject=Hello)
-[![Website](https://img.shields.io/static/v1.svg?label=Website&message=arashmehrzadi.com&color=red&logo=internet-archive&style=social)](mailto:mehrzadiarash@gmail.com?subject=Hello)
+[![Website](https://img.shields.io/static/v1.svg?label=Website&message=arashmehrzadi.com&color=red&logo=internet-archive&style=social)](https://www.arashmehrzadi.com/)
 
 
 
