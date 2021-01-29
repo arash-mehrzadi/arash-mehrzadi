@@ -18,8 +18,6 @@ I have done lots of works in this fields which you can see in my projects sectio
 
 [![Arash Mehrzadi stats](https://github-readme-stats.vercel.app/api?username=arash-mehrzadi)](https://github.com/arash-mehrzadi/github-readme-stats)
 
-[![arash-mehrzadi stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mehrzadi&layout=compact)](https://github.com/arash-mehrzadi/github-readme-stats)
     
 <p align="left">
