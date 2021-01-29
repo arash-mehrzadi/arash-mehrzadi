@@ -16,6 +16,9 @@ I have done lots of works in this fields which you can see in my projects sectio
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arash_mehrzadi/)](https://www.instagram.com/arash_mehrzadi/)
 
 
+[![Arash Mehrzadi stats](https://github-readme-stats.vercel.app/api?username=arash-mehrzadi)](https://github.com/arash-mehrzadi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mehrzadi&layout=compact)](https://github.com/arash-mehrzadi/github-readme-stats)
 
 <p align="center">
     <a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/arash-mehrzadi/arash-mehrzadi?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
