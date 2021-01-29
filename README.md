@@ -18,9 +18,11 @@ I have done lots of works in this fields which you can see in my projects sectio
 
 [![Arash Mehrzadi stats](https://github-readme-stats.vercel.app/api?username=arash-mehrzadi)](https://github.com/arash-mehrzadi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mehrzadi&layout=compact)](https://github.com/arash-mehrzadi/github-readme-stats)
+[![arash-mehrzadi stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mehrzadi&layout=compact)](https://github.com/arash-mehrzadi/github-readme-stats)
+    
+<p align="left">
     <a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/arash-mehrzadi/arash-mehrzadi?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <!--<a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/arash-mehrzadi/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arash-mehrzadi/arash-mehrzadi?label=profile%20updated&style=flat-square"></a>
