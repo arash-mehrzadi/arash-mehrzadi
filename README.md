@@ -12,9 +12,10 @@ I have done lots of works in this fields which you can see in my projects sectio
 
 
 
+[![Researchgate Badge](https://img.shields.io/badge/-Researchgate-mediumaquamarine?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Arash-Mehrzadi)](https://www.researchgate.net/profile/Arash-Mehrzadi)
 [![Linkedin: Arash Mehrzadi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arashmehrzadi/)](https://www.linkedin.com/in/arashmehrzadi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arash_mehrzadi/)](https://www.instagram.com/arash_mehrzadi/)
-[![Researchgate Badge](https://img.shields.io/badge/-Researchgate-mediumaquamarine?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Arash-Mehrzadi)](https://www.researchgate.net/profile/Arash-Mehrzadi)
+
 
 [![Arash Mehrzadi stats](https://github-readme-stats.vercel.app/api?username=arash-mehrzadi)](https://github.com/arash-mehrzadi/github-readme-stats)
 
