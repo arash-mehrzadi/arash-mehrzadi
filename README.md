@@ -1,8 +1,8 @@
 # Arash Mehrzadi 
 ## Data Scientist
-Highly accurate and experienced Data Scientist with several years of experience . I use predictive modeling, Data processing and Data mining algorithms to solve Challenging Medical problems. Currently, most of my work is focused on medical image processing and I have implemented many image processing neural networks such as UNET, etc. (You can also check them in my GitHub). I have also done projects in field of Drug Discovery and implemented RNN neural networks to Discover Chemical Structures. In addition, I have done a lot of work in the field of Build and Develop process management software And financial resource control.
-my research interest's are : intelligent monitoring systems, Medical Image Processing, Drug Discovery and IMS.
-I have done lots of works in this fields which you can see in my projects section. 
+<p style="text-align: justify;">
+I am a researcher specializing in the application of Artificial Intelligence to enhance human life. My current focus is on information theory, particularly information fusion techniques. With a strong foundation in uncertainty quantification and Bayesian fusion, I apply these methods across various medical domains, including computational biology, where I work on generating novel inhibitors against SARS-CoV-2, and in medical image segmentation models. I am deeply passionate about developing foundational deep learning models, driven by the belief that the true impact lies in creating new approaches that advance human well-being. I do not limit myself to a single domain; my approach is to observe, analyze, and innovate to simplify complex processes and solve real-world challenges.
+</p>
 
 
 [![GitHub Arash Mehrzadi](https://img.shields.io/github/followers/arash-mehrzadi?label=follow&style=social)](https://github.com/arash-mehrzadi)
