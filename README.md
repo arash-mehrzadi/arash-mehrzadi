@@ -1,8 +1,8 @@
 # Arash Mehrzadi 
 ## Data Scientist
-<p style="text-align: justify;">
+<div align="justify">
 I am a researcher specializing in the application of Artificial Intelligence to enhance human life. My current focus is on information theory, particularly information fusion techniques. With a strong foundation in uncertainty quantification and Bayesian fusion, I apply these methods across various medical domains, including computational biology, where I work on generating novel inhibitors against SARS-CoV-2, and in medical image segmentation models. I am deeply passionate about developing foundational deep learning models, driven by the belief that the true impact lies in creating new approaches that advance human well-being. I do not limit myself to a single domain; my approach is to observe, analyze, and innovate to simplify complex processes and solve real-world challenges.
-</p>
+</div>
 
 
 [![GitHub Arash Mehrzadi](https://img.shields.io/github/followers/arash-mehrzadi?label=follow&style=social)](https://github.com/arash-mehrzadi)
